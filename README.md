@@ -25,7 +25,7 @@ git clone ![GitHub repo https]
 
 ## Como utilizar a aplicação
 
-Para usar, siga estas etapas:
+Siga estas etapas:
 
 > Entre na pasta do projeto
 ```
