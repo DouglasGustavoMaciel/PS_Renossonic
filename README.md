@@ -25,7 +25,7 @@ git clone ![GitHub repo https]
 
 ## Como utilizar a aplicação
 
-Para usar o Modulo Eficiência - MDM, siga estas etapas:
+Para usar, siga estas etapas:
 
 > Entre na pasta do projeto
 ```
